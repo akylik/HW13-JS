@@ -1,0 +1,45 @@
+body {
+   background-color: rgb(72, 97, 240);
+}
+.buttonGenerate {
+   width: 145px;
+   font-size: 14px;
+   outline: none;
+   display: inline-block;
+   padding: 10px 10px;
+   margin: 10px 10px;
+   border-radius: 10px;
+   color: #161818;
+}
+.generator {
+   width: 100%;
+   margin: 0 auto 100px auto;
+   text-align: center;
+}
+.inputId {
+   font-size: 30px;
+   text-align: center;
+   color: #f1f4f5;
+}
+.gen-fon-size__fon-size {
+   width: 100%;
+   font-size: 14px;
+   display: flex;
+   justify-content: center;
+}
+.buttons-section {
+   max-width: 200px;
+   display: flex;
+   justify-content: space-between;
+   margin: 0 auto;
+}
+.button-buttons-section {
+   border-radius: 5px;
+}
+.content {
+   width: 100%;
+   text-align: center;
+}
+.font-size {
+   font-size: 14px;
+}
